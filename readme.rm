@@ -1,0 +1,46 @@
+
+============================================================
+		  ANÁLISIS DE DENUNCIAS POLICIALES (SIDPOL) 2018-2025
+============================================================
+
+📊 **Proyecto de Análisis de Datos**
+
+Este trabajo explora y visualiza las denuncias policiales registradas en Perú entre 2018 y 2025, utilizando el dataset oficial de la PNP. El objetivo es identificar patrones, tendencias y relaciones relevantes para la toma de decisiones y la prevención del delito.
+
+────────────────────────────────────────────────────────────
+**🔎 Metodología:**
+────────────────────────────────────────────────────────────
+1. **Carga y limpieza de datos:**
+	- Importación del dataset y tratamiento de valores faltantes.
+2. **Análisis exploratorio (EDA):**
+	- Estadísticas descriptivas y visualización de datos.
+3. **Visualización de tendencias:**
+	- Gráficos de evolución temporal y distribución geográfica.
+4. **Modalidades delictivas:**
+	- Análisis de las principales modalidades y su frecuencia.
+5. **Asociación Modalidad-Departamento:**
+	- Tablas y gráficos cruzados para identificar relaciones.
+6. **Clustering y reducción de dimensionalidad:**
+	- Aplicación de PCA y K-Means para segmentación avanzada.
+
+────────────────────────────────────────────────────────────
+**🛠️ Herramientas Utilizadas:**
+────────────────────────────────────────────────────────────
+- Python (Pandas, Numpy, Matplotlib, Scikit-learn)
+- Jupyter/Colab Notebooks
+
+────────────────────────────────────────────────────────────
+**📁 Archivos Principales:**
+────────────────────────────────────────────────────────────
+- colab.ipynb  →  Notebook con el análisis completo y visualizaciones.
+- DATASET_Denuncias_Policiales_Ene 2018 a Nov 2025.csv  →  Dataset original.
+- Imágenes y tablas generadas en la carpeta de trabajo.
+
+────────────────────────────────────────────────────────────
+**👤 Autor:**
+────────────────────────────────────────────────────────────
+*Jhon Marco Aracayo Mamani*
+*Juan Diego Canaza Paucara*
+────────────────────────────────────────────────────────────
+**📅 Última actualización:** Enero 2026
+────────────────────────────────────────────────────────────
